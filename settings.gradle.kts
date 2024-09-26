@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AndroidOrientation"
 include(":app")
- 
+include(":orientation")
